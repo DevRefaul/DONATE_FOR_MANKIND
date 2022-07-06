@@ -95,3 +95,99 @@ body{
     text-align: center;
     font-size: 20px;
 }
+/* second section style done */
+
+#third-section{
+    padding-bottom: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.donation-plan{
+    width: 60%;
+    
+}
+.donate-plan-text{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.donate-plan-text h1{
+    font-size: 50px;
+    font-weight: 700;
+}
+.donate-plan-text p{
+    font-size: 20px;
+    font-weight: 500;
+    color: gray;
+}
+
+.donate-plan-card{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.donate-plan-card .card{
+    width: 310px;
+    padding: 30px 20px;
+    background-color: #D4145A;
+    border-radius: 5px;
+}
+.donate-plan-card .card p{
+    color: gray;
+}
+.donate-plan-card .card1{
+    background-color: #EDF5F6;
+}
+.donate-plan-card .card2{
+    background-color: #FFEEEE;
+}
+.donate-plan-card .card3{
+    background-color: #FFF4D6;
+}
+
+/* third section style done */
+
+#section-four{
+    background-color: #FEEFDA;
+    padding: 60px 0px;
+    display: flex;
+    justify-content: center;
+}
+.reasons-section{
+    width: 70%;
+}
+.section-four-head h1{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+}
+.section-four-head p{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+}
+.section-four-list{
+    display: flex;
+    justify-content: space-around;
+}
+.section-four-list ul li{
+    font-size: 25px;
+    color: #000;
+    font-weight: 600;
+}
+.img-head{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 30px;
+    color: gray;
+}
+.section-four-img{
+    padding: 10px 0px 30px;
+    display: flex;
+    justify-content: space-around;
+}
+.section-four-img img{
+    width: 350px;
+    padding: 0px 20px;
+}
